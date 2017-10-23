@@ -8,6 +8,7 @@ You can open a chapter folder as a project in IntelliJ.
 Pre-requisites
 --------------
 -IntelliJ
+
 -JVM 6 or greater
 
 Getting Started
